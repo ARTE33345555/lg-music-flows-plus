@@ -1,5 +1,3 @@
-#lg-music-flows-plus
-
 Welcome to LG Music Flow Plus – Artemsha Edition 🎵
 
 Hi! I’m Artem, and I want to introduce my custom version of LG Music Flow Plus featuring the unique AudioShar technology.
