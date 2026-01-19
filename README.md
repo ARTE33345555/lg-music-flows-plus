@@ -1,4 +1,5 @@
-# lg-music-flows-plus
+# <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/afce8150-ac8f-47ed-8915-96f0bd27b725" />
+lg-music-flows-plus
 Welcome to LG Music Flow Plus – Artemsha Edition 🎵
 
 Hi! I’m Artem, and I want to introduce my custom version of LG Music Flow Plus featuring the unique AudioShar technology.
