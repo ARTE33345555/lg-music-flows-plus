@@ -1,5 +1,5 @@
 
-# <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/fbc4b925-3549-4f6e-8ec1-f3521f1a1769" /> lg-music-flows-plus
+#lg-music-flows-plus
 
 Welcome to LG Music Flow Plus – Artemsha Edition 🎵
 
